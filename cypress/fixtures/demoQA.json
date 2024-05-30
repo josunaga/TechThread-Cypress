@@ -1,0 +1,7 @@
+{
+    "validTestUser":"TestUser",
+    "validPasswordTestUser":"Password1234@",
+    "invalidPassword": "InvalidPassword",
+    "errorMsg": "Invalid username or password!",
+    "profileURLPath":"/profile"
+}
